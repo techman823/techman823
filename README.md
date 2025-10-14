@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Michael Turner
 
-<!--
-**techman823/techman823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Full-Stack Developer | Cloud & MLOps Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I build intelligent, scalable applications that merge **AI**, **backend engineering**, and **modern web technologies**.  
+Currently focused on **LLM integration**, **AI automation**, and **serverless architectures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+**AI/ML:** PyTorch, TensorFlow, OpenAI API, Hugging Face  
+**Backend:** FastAPI, Flask, Node.js, Express  
+**Frontend:** React, Next.js, TypeScript, TailwindCSS  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
+
+---
+
+### 🌍 Featured Projects
+- 🧩 [AI Content Generator](https://github.com/yourusername/ai-content-generator) — Full-stack app using OpenAI API + FastAPI + Next.js  
+- 🎯 [MLOps Pipeline](https://github.com/yourusername/mlops-pipeline) — End-to-end ML model deployment on AWS  
+- 🔍 [Vision Dashboard](https://github.com/yourusername/vision-dashboard) — Image recognition dashboard with PyTorch  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelturner)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:your.email@example.com)
