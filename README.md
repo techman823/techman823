@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=Hi+I'm+developer;AI+Full-Stack+Developer;Building+Intelligent+and+Apps;Cloud+%7C+AI+%7C+Automation+%7C+MLOps" />
+  <a href="https://github.com/hotcoding85"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer!;Blockchain%20Engineer&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 
 ---
